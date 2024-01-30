@@ -1,6 +1,6 @@
 # 100 Days of Machine Learning
 
-This repository is a collection of code, resources, and notes for the "100 Days of Machine Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist [[https://youtu.be/ZftI2fEz0Fw?si=MMR6JSmx_Um_OBFf]([https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=zLgPYRpotDPvsvhs](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=zLgPYRpotDPvsvhs))](https://youtu.be/ZftI2fEz0Fw?si=MMR6JSmx_Um_OBFf) for in-depth learning on various machine learning topics.
+This repository is a collection of code, resources, and notes for the "100 Days of Machine Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist (https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=zLgPYRpotDPvsvhs))](https://youtu.be/ZftI2fEz0Fw?si=MMR6JSmx_Um_OBFf) for in-depth learning on various machine learning topics.
 
 ## Overview
 
