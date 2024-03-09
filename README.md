@@ -14,3 +14,5 @@ In addition to the original content, I have added some extra materials, examples
 ## Acknowledgments
 
 **CampusX:** Thank you for creating the "100 Days of Machine Learning" playlist and providing valuable educational content.
+
+**Muhammad Sheraz**
