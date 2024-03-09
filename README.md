@@ -1,13 +1,13 @@
 # 100 Days of Machine Learning
 
-<div style="overflow: auto;">
-  <div style="float: left; width: 50%;">
+<div style="overflow: auto; display: flex;">
+  <div style="flex: 1; margin-right: 10px;">
     <p>This repository is a collection of code, resources, and notes for the "100 Days of Machine Learning" playlist from CampusX. The original content and structure are credited to CampusX, and I highly recommend checking out their playlist ([CampusX Playlist](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=zLgPYRpotDPvsvhs)) for in-depth learning on various machine learning topics.
     </p>
   </div>
 
-  <div style="float: right; width: 50%;">
-    <img src="https://github.com/MuhammadSheraza002/100Days-of-Machine-Learning/raw/main/Images/ML.PNG" alt="Machine Learning Image">
+  <div style="flex: 1;">
+    <img src="https://github.com/MuhammadSheraza002/100Days-of-Machine-Learning/raw/main/Images/ML.PNG" alt="Machine Learning Image" style="width: 100%;">
   </div>
 </div>
 
