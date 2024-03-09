@@ -7,9 +7,10 @@
   </div>
 
   <div style="float: right; width: 50%;">
-    ![Machine Learning Image](https://github.com/MuhammadSheraza002/100Days-of-Machine-Learning/raw/main/Images/ML.PNG)
+    <img src="https://github.com/MuhammadSheraza002/100Days-of-Machine-Learning/raw/main/Images/ML.PNG" alt="Machine Learning Image">
   </div>
 </div>
+
 
 ## Overview
 
