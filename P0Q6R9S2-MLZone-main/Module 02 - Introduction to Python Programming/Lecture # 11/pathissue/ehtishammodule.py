@@ -1,1 +1,0 @@
-print("This module is located in : /home/dell/Data/Files/SightSee/Github Repo/Module 02 - Introduction to Python Programming/Lecture # 11 - Learning Practical Data Science and Machine Learning/pathissue/ directory")
