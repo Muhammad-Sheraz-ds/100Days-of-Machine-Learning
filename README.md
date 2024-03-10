@@ -11,7 +11,38 @@
   </div>
 </div>
 
+## Daily Topics
 
+- **Day 1:**
+  - What is Machine Learning?
+- **Day 2:**
+  - AI Vs ML Vs DL
+- **Day 3:**
+  - Types of Machine Learning for Beginners
+  - Types of Machine Learning In Depth
+- **Day 4:**
+  - Batch Machine Learning
+  - Offline Vs Online Learning
+- **Day 5:**
+  - Online Machine Learning
+  - Online Learning
+  - Online Vs Offline Machine Learning
+
+- **Day 6:**
+  - Instance-Based Vs Model-Based Learning
+- **Day 7:**
+  - Challenges in Machine Learning
+  - Problems in Machine Learning
+- **Day 8:**
+  - Application of Machine Learning
+  - Real Life Machine Learning Applications
+- **Day 9:**
+  - Machine Learning Development Life Cycle
+  - MLDLC in Data Science
+- **Day 10:**
+  - Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer
+  - Data Science Job Roles
+  
 ## Overview
 
 The "100 Days of Machine Learning" series is a comprehensive guide that covers a wide range of machine learning concepts, frameworks, and applications. The original content in this repository is derived from CampusX's fantastic work in providing educational content on machine learning.
