@@ -42,7 +42,98 @@
 - **Day 10:**
   - Data Engineer Vs Data Analyst Vs Data Scientist Vs ML Engineer
   - Data Science Job Roles
-  
+
+- **Day 11:**
+  - What are Tensors
+  - Tensor In-depth Explanation
+
+- **Day 12:**
+  - Installing Anaconda For Data Science
+  - Jupyter Notebook for Machine Learning
+  - Google Colab for ML
+- **Day 13:**
+  - End to End Toy Project
+- **Day 14:**
+  - How to Frame a Machine Learning Problem
+  -  How to plan a Data Science Project Effectively
+- **Day 15:**
+  - Working with CSV files
+- **Day 16:**
+  - Working with JSON/SQL
+- **Day 17:**
+  - Fetching Data From an API
+- **Day 18:**
+  - Fetching data using Web Scraping 
+- **Day 19:**
+  - Understanding Your Data 
+- **Day 20:**
+  - Exploratory Data Analysis
+   - EDA using Univariate Analysis
+- **Day 21:**
+  - Exploratory Data Analysis
+    - Bivariate Analysis
+    - Multivariate Analysis
+- **Day 22:**
+  - Pandas Profiling
+- **Day 23:**
+  - What is Feature Engineering?
+- **Day 24:**
+  - Feature Scaling
+    - Standardization
+- **Day 25:**
+  - Feature Scaling
+    - Normalization
+- **Day 26:**
+  - Encoding Categorical Data
+     - Ordinal Encoding
+     - Label Encoding
+- **Day 27:**
+  - Encoding Categorical Data
+     - One Hot Encoding
+- **Day 28:**
+  - Column Transformer in Machine Learning
+  - How to use ColumnTransformer in Sklearn
+- **Day 29:**
+  - Machine Learning Pipelines A-Z
+- **Day 30:**
+  - Function Transformer
+     - Log Transform
+     - Reciprocal Transform
+     - Square Root Transform
+- **Day 31:**
+  - Exploratory Data Analysis
+    - Bivariate Analysis
+    - Multivariate Analysis
+- **Day 32:**
+  - Pandas Profiling
+- **Day 33:**
+  - What is Feature Engineering?
+- **Day 34:**
+  - Feature Scaling
+    - Standardization
+- **Day 35:**
+  - Feature Scaling
+    - Normalization
+- **Day 36:**
+  - Encoding Categorical Data
+     - Ordinal Encoding
+     - Label Encoding
+- **Day 37:**
+  - Encoding Categorical Data
+     - One Hot Encoding
+- **Day 38:**
+  - Column Transformer in Machine Learning
+  - How to use ColumnTransformer in Sklearn
+- **Day 39:**
+  - Machine Learning Pipelines A-Z
+- **Day 40:**
+  - Function Transformer
+     - Log Transform
+     - Reciprocal Transform
+     - Square Root Transform
+
+
+
 ## Overview
 
 The "100 Days of Machine Learning" series is a comprehensive guide that covers a wide range of machine learning concepts, frameworks, and applications. The original content in this repository is derived from CampusX's fantastic work in providing educational content on machine learning.
