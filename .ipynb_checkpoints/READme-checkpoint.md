@@ -101,36 +101,53 @@
      - Reciprocal Transform
      - Square Root Transform
 - **Day 31:**
-  - Exploratory Data Analysis
-    - Bivariate Analysis
-    - Multivariate Analysis
+  -Power Transformer
+  - Box - Cox Transform
+  - Yeo - Johnson Transform
+
 - **Day 32:**
-  - Pandas Profiling
+  - Binning and Binarization
+  - Discretization
+  - Quantile Binning
+  - KMeans Binning
+
 - **Day 33:**
-  - What is Feature Engineering?
+  - Feature Engineering
+  - Handling Mixed Variables 
+
 - **Day 34:**
-  - Feature Scaling
-    - Standardization
+  - Handling Date and Time Variables
+
 - **Day 35:**
-  - Feature Scaling
-    - Normalization
+  - Handling Missing Data
+    - Complete Case Analysis
+
 - **Day 36:**
-  - Encoding Categorical Data
-     - Ordinal Encoding
-     - Label Encoding
+  - Handling Missing Data
+    - Numerical Data
+    - Simple Imputer
+    - Complete Case Analysis
+
 - **Day 37:**
-  - Encoding Categorical Data
-     - One Hot Encoding
+  - Handling Missing Categorical Data
+     - Simple Imputer
+     - Most Frequent Imputation
+     - Missing Category Imp
 - **Day 38:**
-  - Column Transformer in Machine Learning
-  - How to use ColumnTransformer in Sklearn
+  - Missing Indicator
+  - Random Sample Imputation
+  - Handling Missing Data Part 4
+
 - **Day 39:**
-  - Machine Learning Pipelines A-Z
+  - KNN Imputer
+  - Multivariate Imputation
+  - Handling Missing Data Part 5
+
 - **Day 40:**
-  - Function Transformer
-     - Log Transform
-     - Reciprocal Transform
-     - Square Root Transform
+  - Multivariate Imputation by Chained Equations for Missing Value
+  - MICE Algorithm 
+  - Iterative Imputer
+
 
 
 
